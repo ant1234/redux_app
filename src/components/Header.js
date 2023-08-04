@@ -1,4 +1,4 @@
-import { authAction } from '../store/index';
+import { authAction } from '../store/auth';
 import classes from './Header.module.css';
 import { useSelector, useDispatch } from 'react-redux';
 
